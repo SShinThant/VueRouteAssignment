@@ -1,0 +1,32 @@
+{
+    "poster": [
+        {
+            "id": 1,
+            "title": "Atlas Gundam",
+            "owner": "User: John",
+            "postdate": "Date: 11.12.2012",
+            "image": "../images/329415.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Cooler Atlas",
+            "owner": "User: Jay",
+            "postdate": "Date: 10.1.2012",
+            "image": "../images/879293.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Aestheic Star Build Strike",
+            "owner": "User: Max",
+            "postdate": "Date: 1.12.2014",
+            "image": "../images/star.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Gustav Karl Ruin",
+            "owner": "User: Kate",
+            "postdate": "Date: 12.12.2015",
+            "image": "../images/gustav.jpg"
+        }
+    ]
+}
